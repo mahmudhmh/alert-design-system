@@ -6,6 +6,8 @@ This repository contains a React component-based Alert Design System built with 
 
 - Single Responsibility Principle (SRP)
 - Open-Closed Principle (OCP).
+- ![AlertDesignSystem](https://github.com/mahmudhmh/alert-design-system/assets/54104161/2e9337ea-3b69-4aad-b7a8-b1b08751f4cd)
+
 
 ## Components
 
